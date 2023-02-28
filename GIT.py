@@ -4,3 +4,5 @@ class Dummy():
 
     def __init__(self):
         pass
+
+"Añadimos un texto random"

@@ -4,3 +4,6 @@ class Dummy():
 
     def __init__(self):
         pass
+
+    def doSomething(self):
+        print("Hello world!")
