@@ -7,3 +7,5 @@ class Dummy():
 
     def doSomething(self):
         print("Hello world!")
+
+        ##################
