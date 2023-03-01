@@ -7,3 +7,4 @@ class Dummy():
 
 "Añadimos un texto random"
 "Añado esta línea desde GITHUB"
+"NUEVO TEXTO DESDE MASTER"
